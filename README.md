@@ -82,8 +82,6 @@ Je suis à la recherche d’une alternance à partir de Septembre 2025 sur des p
 ![IAM](https://img.shields.io/badge/IAM-%230072C6.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-DC4225?style=for-the-badge&logo=zabbix&logoColor=white)
-![Cybersécurité](https://img.shields.io/badge/Cybers%C3%A9curit%C3%A9-FF0000?style=for-the-badge&logo=kaspersky&logoColor=white)
 
 ---
 
@@ -97,9 +95,9 @@ Je suis à la recherche d’une alternance à partir de Septembre 2025 sur des p
 
 # Expériences professionnelles marquantes
 
-**Travailleur indépendant (2018 - 2023)**
-- Maintenance informatique.
-- Entraîneur sportif indépendant.
+**Enseignant SVT (2020 - 2023)**
+**Ingénieur d'étude en géophysique (2017 - 2020)**
+
 
 # Quelques projets réalisés
 
@@ -139,6 +137,18 @@ Technologies utilisées :
 ![PyODBC](https://img.shields.io/badge/PyODBC-4.0.39+-blue.svg)
 
 ---
+## 📚 Projet NLP - Kafklassification - Prédiction de genre littéraire
+
+Kafklassification est une application NLP permettant de prédire les genres littéraires à partir de résumés de livres, en s'appuyant sur un modèle BERT fine-tuné.
+Développée avec Hugging Face Transformers et Streamlit, l'application offre une interface simple pour entrer un résumé (dans n'importe quelle langue) et obtenir les genres les plus probables, accompagnés de scores et d'une visualisation graphique.
+
+    - Prise en charge multilingue avec traduction automatique vers l’anglais
+    - Interface interactive avec seuil de score ajustable
+    - Affichage visuel des scores par genre (graphique à barres)
+    - Modèle de classification entraîné sur un jeu de données personnalisé
+    - Interface web légère avec Streamlit et logo personnalisé
+
+  [Voir le projet sur GitHub](https://github.com/A-Delvoye/Kafkassifier.git)
 
 ## Projet Assurance - Gestion des Clients, Prospect et Rendez-vous
 
@@ -149,7 +159,7 @@ Développement d'une application web de gestion pour le secteur de l'assurance, 
 - Estimation des montants : Calcul des primes d'assurance via un modèle de régression basé sur Scikit-learn.
 - Authentification : Connexion sécurisée, gestion des sessions avec Django, et configuration d'un mécanisme de réinitialisation de mot de passe en cas d'oubli.
 
-[Voir le projet sur GitHub](https://github.com/Malek-Boumedine/assuraimant)
+[Voir le projet sur GitHub](git@github.com:A-Delvoye/SBA_Classification.git)
 
 Technologies utilisées :
 
@@ -172,7 +182,7 @@ Développement d'un outil de machine learning pour automatiser l'estimation des 
 - Modélisation avec des algorithmes de régression (Lasso, Ridge, ElasticNet) et optimisation via GridSearchCV.
 - Application Streamlit pour prédire les primes et visualiser les facteurs d'influence.
 
-[Voir le projet sur GitHub](https://github.com/Malek-Boumedine/brief_ML_assurances)
+[Voir le projet sur GitHub](https://github.com/A-Delvoye/Brief2_prime_assurance.git)
 
 Technologies utilisées :
 
@@ -192,7 +202,7 @@ Développement d'un outil de scraping robuste avec Scrapy pour extraire des donn
 - Extraction automatisée des données produits (nom, prix, marque, etc.) et insertion dans une base de données.
 - Application Streamlit pour lancer le scraping, afficher les produits avec filtres (catégorie, promotion, mot-clé).
 
-[Voir le projet sur GitHub](https://github.com/Malek-Boumedine/brief_scraping_la_maison)
+[Voir le projet sur GitHub](https://github.com/A-Delvoye/Scraping_GammVert.git)
 
 Technologies utilisées :
 
