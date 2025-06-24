@@ -1,10 +1,10 @@
 # À propos de moi
 
-*** Curieux, motivé et passionné par les données et l'intelligence artificielle, je suis actuellement en formation Développeur Data/ IA chez Simplon. Ce programme intensif me permet d'acquérir des compétences pratiques dans le développement de solutions IA, en utilisant des technologies modernes telles que TensorFlow, Pytorch, Microsoft Azure.
+* Curieux, motivé et passionné par les données et l'intelligence artificielle, je suis actuellement en formation Développeur Data/ IA chez Simplon. Ce programme intensif me permet d'acquérir des compétences pratiques dans le développement de solutions IA, en utilisant des technologies modernes telles que TensorFlow, Pytorch, Microsoft Azure.
 
 En intégrant une équipe en alternance, je souhaite mettre mes compétences en pratique et continuer à apprendre dans un environnement professionnel stimulant.
 
-Je suis à la recherche d’une alternance à partir de Septembre 2025 sur des postes Data Scientist / Data Analyst. N’hésitez pas à me contacter pour échanger ! ***
+Je suis à la recherche d’une alternance à partir de Septembre 2025 sur des postes Data Scientist / Data Analyst. N’hésitez pas à me contacter pour échanger ! *
 
 ---
 
