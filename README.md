@@ -1,4 +1,4 @@
-# À propos de moi
+# 🙋‍♂️ À propos de moi
 
 Curieux, motivé et passionné par les données et l'intelligence artificielle, je suis actuellement en formation Développeur Data/ IA chez Simplon.
 Ce programme intensif me permet d'acquérir des compétences pratiques dans le développement de solutions IA, en utilisant des technologies modernes telles que TensorFlow, Pytorch, Microsoft Azure.
@@ -9,7 +9,7 @@ Je suis à la recherche d’un CDD ou d'une alternance à partir de Septembre 20
 
 ---
 
-# Compétences techniques
+# 🛠️ Compétences techniques
 
 **Langages :**
 
@@ -86,7 +86,7 @@ Je suis à la recherche d’un CDD ou d'une alternance à partir de Septembre 20
 
 ---
 
-# Formations actuelles et récentes
+# 🎓 Formations actuelles et récentes
 
 | Année              | Formation                                                     | Établissement                  |
 |--------------------|---------------------------------------------------------------|--------------------------------|
@@ -100,7 +100,7 @@ Je suis à la recherche d’un CDD ou d'une alternance à partir de Septembre 20
 **Ingénieur d'étude en géophysique (2017 - 2020)**
 
 
-# Quelques projets réalisés
+# 🚀 Quelques projets réalisés
 
 ### Applications Web Django & FastAPI avec Docker, Azure et Terraform
 
@@ -115,7 +115,7 @@ Déploiement & Infrastructure :
 
 [Voir le projet sur GitHub](https://github.com/Malek-Boumedine/docker_terraform.git)
 
-Technologies utilisées :
+⚙️ Technologies utilisées :
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115.8+-blue.svg)
@@ -151,7 +151,7 @@ Développée avec Hugging Face Transformers et Streamlit, l'application offre un
 
   [Voir le projet sur GitHub](https://github.com/A-Delvoye/Kafkassifier.git)
 
-## Projet Assurance - Gestion des Clients, Prospect et Rendez-vous
+## 🛡️ Projet Assurance - Gestion des Clients, Prospect et Rendez-vous
 
 Développement d'une application web de gestion pour le secteur de l'assurance, permettant de gérer les utilisateurs, les rendez-vous et d'estimer les montants d'assurance :
 
@@ -175,7 +175,7 @@ Technologies utilisées :
 
 ---
 
-### Outil de Prédiction des Primes d'Assurance
+### 💸 Outil de Prédiction des Primes d'Assurance
 
 Développement d'un outil de machine learning pour automatiser l'estimation des primes d'assurance, incluant un modèle de prédiction par régression et une interface interactive.
 
@@ -197,7 +197,7 @@ Technologies utilisées :
 
 --- 
 
-### Scraping d'un site web
+### 🌱 Scraping d'un site web
 
 Développement d'un outil de scraping robuste avec Scrapy pour extraire des données de produits d'un site e-commerce :
 - Extraction automatisée des données produits (nom, prix, marque, etc.) et insertion dans une base de données.
@@ -214,21 +214,15 @@ Technologies utilisées :
 
 ---
 
-### Développeur Cybersécurité – Projet de fin de formation EPSI Lille
-- Développement sécurisé d'une application CRM en Java.
-- Mise en place d'une architecture réseau sécurisée.
+# 🌍 Langues parlées
 
----
-
-# Langues parlées
-
-| Langue                 | Niveau                  |
-|------------------------|-------------------------|
-| Français               | Lanque maternelle       |
-| Anglais                | Bilingue                |
-| Allemand               | A1                      |
-| Islandais              | A2                      |
-
+| Langue                    | Niveau                  |
+|---------------------------|-------------------------|
+| 🇫🇷 Français               | Lanque maternelle       |
+| 🇬🇧 Anglais                | Bilingue                |
+| 🇩🇪 Allemand               | A1                      |
+| 🇮🇸 Islandais              | A2                      |
+ 
 ---
 
 # Savoir-être
