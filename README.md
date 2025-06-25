@@ -240,7 +240,7 @@ Ce projet propose une modélisation algorithmique de la cristallisation fraction
 - Modélisation de la cristallisation progressive.
 - Visualisation graphique de la composition chimique résiduelle.
 
-[Voir le projet sur GitHub]([https://github.com/A-Delvoye/Scraping_GammVert.git](https://github.com/A-Delvoye/Magmatic_Cristallization.git))
+[Voir le projet sur GitHub](https://github.com/A-Delvoye/Magmatic_Cristallization.git)
 
 ⚙️ Technologies utilisées :
 
