@@ -153,20 +153,21 @@ Développée avec Hugging Face Transformers et Streamlit, l'application offre un
 
   ⚙️ Technologies utilisées :
 
-  ![pandas](https://img.shields.io/badge/pandas-latest-blue.svg)
-  ![matplotlib](https://img.shields.io/badge/matplotlib-latest-blue.svg)
-  ![transformers](https://img.shields.io/badge/transformers-latest-blue.svg)
-  ![nltk](https://img.shields.io/badge/nltk-latest-blue.svg)
-  ![inflect](https://img.shields.io/badge/inflect-latest-blue.svg)
-  ![torch](https://img.shields.io/badge/torch-latest-blue.svg)
-  ![accelerate](https://img.shields.io/badge/accelerate-latest-blue.svg)
-  ![seaborn](https://img.shields.io/badge/seaborn-latest-blue.svg)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-latest-blue.svg)
-  ![streamlit](https://img.shields.io/badge/streamlit-latest-blue.svg)
-  ![ruff](https://img.shields.io/badge/ruff-latest-blue.svg)
-  ![pydantic](https://img.shields.io/badge/pydantic-latest-blue.svg)
-  ![fastapi](https://img.shields.io/badge/fastapi-latest-blue.svg)
-  ![uvicorn](https://img.shields.io/badge/uvicorn-latest-blue.svg)
+![pandas](https://img.shields.io/badge/pandas-2.3.0-blue.svg)
+![matplotlib](https://img.shields.io/badge/matplotlib-3.10.3-blue.svg)
+![transformers](https://img.shields.io/badge/transformers-4.52.4-blue.svg)
+![nltk](https://img.shields.io/badge/nltk-3.9.1-blue.svg)
+![inflect](https://img.shields.io/badge/inflect-7.5.0-blue.svg)
+![torch](https://img.shields.io/badge/torch-2.7.1-blue.svg)
+![accelerate](https://img.shields.io/badge/accelerate-1.7.0-blue.svg)
+![seaborn](https://img.shields.io/badge/seaborn-0.13.2-blue.svg)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.7.0-blue.svg)
+![streamlit](https://img.shields.io/badge/streamlit-1.46.0-blue.svg)
+![ruff](https://img.shields.io/badge/ruff-0.12.0-blue.svg)
+
+![pydantic](https://img.shields.io/badge/pydantic-2.11.7-blue.svg)
+![fastapi](https://img.shields.io/badge/fastapi-0.115.13-blue.svg)
+![uvicorn](https://img.shields.io/badge/uvicorn-0.34.3-blue.svg)
 
 ## 🛡️ Projet Assurance - Gestion des Clients, Prospect et Rendez-vous
 
