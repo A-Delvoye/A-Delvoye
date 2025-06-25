@@ -233,6 +233,24 @@ Développement d'un outil de scraping robuste avec Scrapy pour extraire des donn
 
 ---
 
+### 🌋 Modélisation de cristallisation fractionnée d'un magma
+
+Ce projet propose une modélisation algorithmique de la cristallisation fractionnée dans un magma basaltique, à l’aide de classes Python représentant les minéraux et le magma. L’évolution chimique est simulée et visualisée en fonction de la température décroissante.
+
+- Modélisation de la cristallisation progressive.
+- Visualisation graphique de la composition chimique résiduelle.
+
+[Voir le projet sur GitHub]([https://github.com/A-Delvoye/Scraping_GammVert.git](https://github.com/A-Delvoye/Magmatic_Cristallization.git))
+
+⚙️ Technologies utilisées :
+
+![python](https://img.shields.io/badge/python-3.11-blue.svg)
+![numpy](https://img.shields.io/badge/numpy-2.3.0-blue.svg)
+![pandas](https://img.shields.io/badge/pandas-2.3.0-blue.svg)
+![matplotlib](https://img.shields.io/badge/matplotlib-3.10.3-blue.svg)
+
+---
+
 # 🌍 Langues parlées
 
 | Langue                    | Niveau                  |
