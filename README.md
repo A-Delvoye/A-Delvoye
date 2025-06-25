@@ -194,6 +194,32 @@ Développement d'une application web de gestion pour le secteur de l'assurance, 
 
 ---
 
+## 🎬 Projet Movie_Predict – Prédiction des Entrées Cinéma
+
+Développement d’une application complète pour prédire le nombre d’entrées en salle d’un film **avant sa sortie**, avec une architecture microservices et automatisation du scraping :
+
+- **Scraping des données** : Extraction des données de films (titre, genre, synopsis, casting, etc.) via Scrapy (IMDb).
+- **Modèle de régression** : Entraînement d’un modèle Scikit-learn/XGBoost pour prédire les entrées en salle à partir des features collectées.
+- **API de prédiction** : Exposition des prédictions via une API REST construite avec FastAPI.
+- **Interface web** : Application Django/Tailwind affichant un tableau de bord (top 10, chiffres clés, historique des prédictions).
+- **Automatisation** : Pipeline Airflow pour scraping et prédictions hebdomadaires (films à venir).
+
+[Voir le projet sur GitHub](https://github.com/A-Delvoye/Movie_Predict)
+
+⚙️ Technologies utilisées :
+
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-blue.svg)
+![Django](https://img.shields.io/badge/Django-5.0+-blue.svg)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-3.4+-blue.svg)
+![Scrapy](https://img.shields.io/badge/Scrapy-2.12+-blue.svg)
+![Airflow](https://img.shields.io/badge/Airflow-2.9+-blue.svg)
+![XGBoost](https://img.shields.io/badge/XGBoost-2.0+-blue.svg)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.2+-blue.svg)
+![SQLite](https://img.shields.io/badge/SQLite-3.39+-blue.svg)
+
+---
+
 ### 💸 Outil de Prédiction des Primes d'Assurance
 
 Développement d'un outil de machine learning pour automatiser l'estimation des primes d'assurance, incluant un modèle de prédiction par régression et une interface interactive.
