@@ -160,15 +160,16 @@ Développée avec Hugging Face Transformers et Streamlit, l'application offre un
 ![inflect](https://img.shields.io/badge/inflect-7.5.0-blue.svg)
 ![torch](https://img.shields.io/badge/torch-2.7.1-blue.svg)
 ![accelerate](https://img.shields.io/badge/accelerate-1.7.0-blue.svg)
-![seaborn](https://img.shields.io/badge/seaborn-0.13.2-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.7.0-blue.svg)
 ![streamlit](https://img.shields.io/badge/streamlit-1.46.0-blue.svg)
 ![ruff](https://img.shields.io/badge/ruff-0.12.0-blue.svg)
-
 ![pydantic](https://img.shields.io/badge/pydantic-2.11.7-blue.svg)
 ![fastapi](https://img.shields.io/badge/fastapi-0.115.13-blue.svg)
 ![uvicorn](https://img.shields.io/badge/uvicorn-0.34.3-blue.svg)
-
+![docker](https://img.shields.io/badge/docker-24.0.5-blue.svg)
+![azure-cli](https://img.shields.io/badge/azure--cli-2.62.0-blue.svg)
+![azure-functions-core-tools](https://img.shields.io/badge/azure--functions--core--tools-4.0.5095-blue.svg)
+![azure-devops](https://img.shields.io/badge/azure--devops-latest-blue.svg)
 ## 🛡️ Projet Assurance - Gestion des Clients, Prospect et Rendez-vous
 
 Développement d'une application web de gestion pour le secteur de l'assurance, permettant de gérer les utilisateurs, les rendez-vous et d'estimer les montants d'assurance :
