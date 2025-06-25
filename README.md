@@ -151,6 +151,23 @@ Développée avec Hugging Face Transformers et Streamlit, l'application offre un
 
   [Voir le projet sur GitHub](https://github.com/A-Delvoye/Kafkassifier.git)
 
+  ⚙️ Technologies utilisées :
+
+  ![pandas](https://img.shields.io/badge/pandas-latest-blue.svg)
+  ![matplotlib](https://img.shields.io/badge/matplotlib-latest-blue.svg)
+  ![transformers](https://img.shields.io/badge/transformers-latest-blue.svg)
+  ![nltk](https://img.shields.io/badge/nltk-latest-blue.svg)
+  ![inflect](https://img.shields.io/badge/inflect-latest-blue.svg)
+  ![torch](https://img.shields.io/badge/torch-latest-blue.svg)
+  ![accelerate](https://img.shields.io/badge/accelerate-latest-blue.svg)
+  ![seaborn](https://img.shields.io/badge/seaborn-latest-blue.svg)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-latest-blue.svg)
+  ![streamlit](https://img.shields.io/badge/streamlit-latest-blue.svg)
+  ![ruff](https://img.shields.io/badge/ruff-latest-blue.svg)
+  ![pydantic](https://img.shields.io/badge/pydantic-latest-blue.svg)
+  ![fastapi](https://img.shields.io/badge/fastapi-latest-blue.svg)
+  ![uvicorn](https://img.shields.io/badge/uvicorn-latest-blue.svg)
+
 ## 🛡️ Projet Assurance - Gestion des Clients, Prospect et Rendez-vous
 
 Développement d'une application web de gestion pour le secteur de l'assurance, permettant de gérer les utilisateurs, les rendez-vous et d'estimer les montants d'assurance :
@@ -162,7 +179,7 @@ Développement d'une application web de gestion pour le secteur de l'assurance, 
 
 [Voir le projet sur GitHub](git@github.com:A-Delvoye/SBA_Classification.git)
 
-Technologies utilisées :
+⚙️ Technologies utilisées :
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Django](https://img.shields.io/badge/Django-4.2+-blue.svg)
@@ -185,7 +202,7 @@ Développement d'un outil de machine learning pour automatiser l'estimation des 
 
 [Voir le projet sur GitHub](https://github.com/A-Delvoye/Brief2_prime_assurance.git)
 
-Technologies utilisées :
+⚙️ Technologies utilisées :
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2+-blue.svg)
@@ -205,7 +222,7 @@ Développement d'un outil de scraping robuste avec Scrapy pour extraire des donn
 
 [Voir le projet sur GitHub](https://github.com/A-Delvoye/Scraping_GammVert.git)
 
-Technologies utilisées :
+⚙️ Technologies utilisées :
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Scrapy](https://img.shields.io/badge/Scrapy-2.8+-blue.svg)
