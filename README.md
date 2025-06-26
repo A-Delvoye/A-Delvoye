@@ -48,6 +48,7 @@ Je suis à la recherche d’un CDD ou d'une alternance à partir de Septembre 20
 **Frameworks & Outils :**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-green.svg)
@@ -59,14 +60,14 @@ Je suis à la recherche d’un CDD ou d'une alternance à partir de Septembre 20
 **Cloud & DevOps :**
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![AZ-900 Certified](https://img.shields.io/badge/AZ--900%20Certified-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![AI-900 Certified](https://img.shields.io/badge/AI--900%20Certified-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![AZ-900 AI-900 Certified](https://img.shields.io/badge/AZ--900%20Certified-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)
 
 **Data scraping and Automation :**
+
 ![Scrapy](https://img.shields.io/badge/Scrapy-green.svg?style=flat-square)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-blueviolet.svg?style=flat-square)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
