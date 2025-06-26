@@ -60,7 +60,7 @@ Je suis à la recherche d’un CDD ou d'une alternance à partir de Septembre 20
 **Cloud & DevOps :**
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![AZ-900 AI-900 Certified](https://img.shields.io/badge/AZ--900%20Certified-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![AZ-900 AI-900 Certified]([https://img.shields.io/badge/AZ--900%20Certified-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white](https://img.shields.io/badge/AZ900_&_AI900_Certified-0089D6?logo=microsoft&logoColor=white&style=for-the-badge))
 ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white)
