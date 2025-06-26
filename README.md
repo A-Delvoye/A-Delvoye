@@ -42,14 +42,8 @@ Je suis à la recherche d’un CDD ou d'une alternance à partir de Septembre 20
 
 **Big Data & Ingénierie :**
 
-![ETL](https://img.shields.io/badge/ETL-%23FFA500.svg?style=flat-square)
-![Talend](https://img.shields.io/badge/Talend-%2300C4CC.svg?style=flat-square&logo=talend&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Hadoop HDFS](https://img.shields.io/badge/Hadoop-HDFS-66CCFF?style=flat-square&logo=hadoop&logoColor=white)
 ![Azure Data Lake Storage](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-green.svg?style=flat-square)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-blueviolet.svg?style=flat-square)
 
 **Frameworks & Outils :**
 
@@ -65,8 +59,19 @@ Je suis à la recherche d’un CDD ou d'une alternance à partir de Septembre 20
 **Cloud & DevOps :**
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![AZ-900 Certified](https://img.shields.io/badge/AZ--900%20Certified-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![AI-900 Certified](https://img.shields.io/badge/AI--900%20Certified-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)
+
+**Data scraping and Automation :**
+![Scrapy](https://img.shields.io/badge/Scrapy-green.svg?style=flat-square)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-blueviolet.svg?style=flat-square)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Cron Job](https://img.shields.io/badge/Cron%20Job-004170?style=flat-square&logo=cron&logoColor=white)
 
 **Gestion de projets :**
 
