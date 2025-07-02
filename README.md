@@ -38,6 +38,7 @@ Je suis à la recherche d’un CDD ou d'une alternance à partir de Septembre 20
 # Expériences professionnelles marquantes
 
 **Enseignant SVT (2020 - 2023)**
+
 **Ingénieur d'étude en géophysique (2017 - 2020)**
 
 
